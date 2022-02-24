@@ -1,4 +1,4 @@
-# How to protect your sensitive data from screen capturing or screen sharing.
+# How to protect your sensitive data from screen capturing.
 
 Screen sharing! is a word that is often heard these days. Yes, it is important! because of the current situation, but there must be some limit. This article is about how to hide your personal information from screen sharing.
 

@@ -2,7 +2,7 @@
 
 Screen sharing! is a word that is often heard these days. Yes, it is important! because of the current situation, but there must be some limit. This article is about how to hide your personal information from screen sharing.
 
-> “They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.”
+> “They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.”\
 **― Benjamin Franklin**
 
 ## The First Method
@@ -21,5 +21,5 @@ Github: [Invisiwind](https://github.com/radiantly/Invisiwind)
 
 ### Running on Windows 11,
 
-This application seems to have some bugs when running on windows 11. I did some testing on early Windows versions. it is working properly on windows 10 or windows 7.
+This application seems to have some bugs when running on windows 11. I did some testing on early Windows versions. it is working properly on windows 7 to windows 10.
 [Please refer here for more analysis and report on this bug](https://docs.microsoft.com/en-us/answers/questions/700122/setwindowdisplayaffinity-on-windows-11.html)

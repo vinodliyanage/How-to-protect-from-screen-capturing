@@ -3,8 +3,7 @@
 Screen sharing! is a word that is often heard these days. Yes, it is important! because of the current situation, but there must be some limit. This article is about how to hide your personal information from screen sharing.
 
 > “They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.”
-
-                                **― Benjamin Franklin**
+**― Benjamin Franklin**
 
 ## The First Method
 

@@ -16,8 +16,7 @@ Run a screen capturing application (e.g., zoom) in a virtual environment (like V
 
 ## The third method
 
-In my research on this, I came across the invisiwind application. The tool performs DLL injection to SetWindowDisplayAffinity to WDA_EXCLUDEFROMCAPTUR.
-Github: [Invisiwind](https://github.com/radiantly/Invisiwind)
+In my research on this, I came across with the application called [invisiwind](https://github.com/radiantly/Invisiwind). The tool performs DLL injection to SetWindowDisplayAffinity to WDA_EXCLUDEFROMCAPTUR.
 
 ### Running on Windows 11,
 
